@@ -1,4 +1,4 @@
-// File: /Users/akira/flok/src/app/layout.tsx
+// File: /Users/cristianpadleski/Desktop/flockapp/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
